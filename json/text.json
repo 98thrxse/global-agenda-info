@@ -1,0 +1,18 @@
+{
+    "initial": {
+        "text": "\"Welcome to Dome City, Agent. This is where we start over and the chance for liberty begins.\""
+    },
+    "info": {
+        "text1": "\"Want to know more info? ",
+        "link": "Join us",
+        "text2": ", Agent.\""
+    },
+    "official": {
+        "online": "\"Refreshed, the official server is online, Agent.\"",
+        "offline": "\"Refreshed, the official server is offline or your network connection is unstable, Agent.\"",
+        "refresh": "\"Refreshing server status, Agent..\""
+    },
+    "private": {
+        "text": "\"Now, we can't make a private server, no one has the server-side files, but you can help us to recreate them, Agent.\""
+    }
+}
